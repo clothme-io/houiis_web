@@ -5,7 +5,7 @@ import { EntityPage } from '../pages/keyword/EntityPage';
 import { DashboardPage } from '../pages/dashboard/DashboardPage';
 import { ContentOutlinePage } from '../pages/outline/ContentOutline';
 import { CreateAccountPage } from '../pages/auth/createAccount/CreateAccount';
-import { LoginPage } from '../pages/auth/login/LoginPage';
+import { LoginPage } from '../pages/login/LoginPage';
 import { WriterPage } from '../pages/writer/WriterPage';
 import { SchedulerPage } from '../pages/scheduler/SettingPage';
 import { AntSidebar } from '../components/ui/antSideBar';
